@@ -1,0 +1,177 @@
+{
+    "0": {
+        "Title": "The Shawshank Redemption",
+        "Release_Year": 1994,
+        "Length": "02:22",
+        "Kind": "NC-17",
+        "Rate": 9.3
+    },
+    "1": {
+        "Title": "The Godfather",
+        "Release_Year": 1972,
+        "Length": "02:55",
+        "Kind": "PG-13",
+        "Rate": 9.2
+    },
+    "2": {
+        "Title": "The Dark Knight",
+        "Release_Year": 2008,
+        "Length": "02:32",
+        "Kind": "R",
+        "Rate": 9.0
+    },
+    "3": {
+        "Title": "The Godfather Part II",
+        "Release_Year": 1974,
+        "Length": "03:22",
+        "Kind": "PG-13",
+        "Rate": 9.0
+    },
+    "4": {
+        "Title": "12 Angry Men",
+        "Release_Year": 1957,
+        "Length": "01:36",
+        "Kind": "G",
+        "Rate": 9.0
+    },
+    "5": {
+        "Title": "Schindler's List",
+        "Release_Year": 1993,
+        "Length": "03:15",
+        "Kind": "R",
+        "Rate": 9.0
+    },
+    "6": {
+        "Title": "The Lord of the Rings: The Return of the King",
+        "Release_Year": 2003,
+        "Length": "03:21",
+        "Kind": "R",
+        "Rate": 9.0
+    },
+    "7": {
+        "Title": "Pulp Fiction",
+        "Release_Year": 1994,
+        "Length": "02:34",
+        "Kind": "R",
+        "Rate": 8.9
+    },
+    "8": {
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Release_Year": 2001,
+        "Length": "02:58",
+        "Kind": "PG-13",
+        "Rate": 8.9
+    },
+    "9": {
+        "Title": "The Good, the Bad and the Ugly",
+        "Release_Year": 1966,
+        "Length": "02:41",
+        "Kind": "R",
+        "Rate": 8.8
+    },
+    "10": {
+        "Title": "Forrest Gump",
+        "Release_Year": 1994,
+        "Length": "02:22",
+        "Kind": "Not Rated",
+        "Rate": 8.8
+    },
+    "11": {
+        "Title": "The Lord of the Rings: The Two Towers",
+        "Release_Year": 2002,
+        "Length": "02:59",
+        "Kind": "R",
+        "Rate": 8.8
+    },
+    "12": {
+        "Title": "Fight Club",
+        "Release_Year": 1999,
+        "Length": "02:19",
+        "Kind": "R",
+        "Rate": 8.8
+    },
+    "13": {
+        "Title": "Inception",
+        "Release_Year": 2010,
+        "Length": "02:28",
+        "Kind": "PG-13",
+        "Rate": 8.8
+    },
+    "14": {
+        "Title": "Star Wars: Episode V - The Empire Strikes Back",
+        "Release_Year": 1980,
+        "Length": "02:04",
+        "Kind": "G",
+        "Rate": 8.7
+    },
+    "15": {
+        "Title": "The Matrix",
+        "Release_Year": 1999,
+        "Length": "02:16",
+        "Kind": "R",
+        "Rate": 8.7
+    },
+    "16": {
+        "Title": "GoodFellas",
+        "Release_Year": 1990,
+        "Length": "02:25",
+        "Kind": "NC-17",
+        "Rate": 8.7
+    },
+    "17": {
+        "Title": "One Flew Over the Cuckoo's Nest",
+        "Release_Year": 1975,
+        "Length": "02:13",
+        "Kind": "R",
+        "Rate": 8.7
+    },
+    "18": {
+        "Title": "Interstellar",
+        "Release_Year": 2014,
+        "Length": "02:49",
+        "Kind": "PG-13",
+        "Rate": 8.7
+    },
+    "19": {
+        "Title": "Se7en",
+        "Release_Year": 1995,
+        "Length": "02:07",
+        "Kind": "R",
+        "Rate": 8.6
+    },
+    "20": {
+        "Title": "It's a Wonderful Life",
+        "Release_Year": 1946,
+        "Length": "02:10",
+        "Kind": "Not Rated",
+        "Rate": 8.6
+    },
+    "21": {
+        "Title": "Shichinin no samurai",
+        "Release_Year": 1954,
+        "Length": "03:27",
+        "Kind": "Not Rated",
+        "Rate": 8.6
+    },
+    "22": {
+        "Title": "The Silence of the Lambs",
+        "Release_Year": 1991,
+        "Length": "01:58",
+        "Kind": "R",
+        "Rate": 8.6
+    },
+    "23": {
+        "Title": "Saving Private Ryan",
+        "Release_Year": 1998,
+        "Length": "02:49",
+        "Kind": "PG-13",
+        "Rate": 8.6
+    },
+    "24": {
+        "Title": "Cidade de Deus",
+        "Release_Year": 2002,
+        "Length": "02:10",
+        "Kind": "R",
+        "Rate": 8.6
+    }
+}

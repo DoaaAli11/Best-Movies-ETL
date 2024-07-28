@@ -1,0 +1,11 @@
+ETL Process Started   2024-07-28 Sunday    21:52:07
+Request URL Started   2024-07-28 Sunday    21:52:08
+Request Responded Successfuly   2024-07-28 Sunday    21:52:08
+Data Extraction Started   2024-07-28 Sunday    21:52:09
+Data Extracted Successfuly   2024-07-28 Sunday    21:52:09
+Data Transformation Started   2024-07-28 Sunday    21:52:09
+Data Transformed Successfuly   2024-07-28 Sunday    21:52:09
+Data Saved in DB Successfuly   2024-07-28 Sunday    21:52:10
+Data Saved in JSON Successfuly   2024-07-28 Sunday    21:52:10
+Data Saved in CSV Successfuly   2024-07-28 Sunday    21:52:10
+ETL Process Ended   2024-07-28 Sunday    21:52:10
