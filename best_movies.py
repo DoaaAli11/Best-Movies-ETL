@@ -138,7 +138,7 @@ def execute_sql_query(query_statement, param, sql_db):
 
 
 if __name__ == '__main__':
-    url = 'https://www.imdb.com/chat/top/'
+    url = 'https://www.imdb.com/chart/top'
     to_json = 'Best_movies.json'
     to_csv = 'Best_movies.csv'
     sql_table = 'Best_movies'
